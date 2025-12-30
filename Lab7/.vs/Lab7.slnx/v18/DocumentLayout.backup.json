@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\6811850010\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE31EF8F-1431-4C5D-A6E7-30ED21F3405F}|Lab7.6\\Lab7.6.vcxproj|C:\\6811850010\\Lab7\\Lab7.6\\Lab7.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE31EF8F-1431-4C5D-A6E7-30ED21F3405F}|Lab7.6\\Lab7.6.vcxproj|solutionrelative:Lab7.6\\Lab7.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348F8A4-737B-4FAE-816C-90F1E35BFEE6}|Lab7.4\\Lab7.4.vcxproj|C:\\6811850010\\Lab7\\Lab7.4\\Lab7.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9348F8A4-737B-4FAE-816C-90F1E35BFEE6}|Lab7.4\\Lab7.4.vcxproj|solutionrelative:Lab7.4\\Lab7.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA51884C-984F-4645-994A-114620CD7032}|Lab7.5\\Lab7.5.vcxproj|C:\\6811850010\\Lab7\\Lab7.5\\Lab7.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA51884C-984F-4645-994A-114620CD7032}|Lab7.5\\Lab7.5.vcxproj|solutionrelative:Lab7.5\\Lab7.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A4ED5-461F-4013-956A-5E0168927260}|Lab7.3\\Lab7.3.vcxproj|C:\\6811850010\\Lab7\\Lab7.3\\Lab7.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{064A4ED5-461F-4013-956A-5E0168927260}|Lab7.3\\Lab7.3.vcxproj|solutionrelative:Lab7.3\\Lab7.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CBAA6D-78E3-4F5F-BF85-9D49D9561A83}|Lab 7.2\\Lab 7.2.vcxproj|C:\\6811850010\\Lab7\\Lab 7.2\\Lab 7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6CBAA6D-78E3-4F5F-BF85-9D49D9561A83}|Lab 7.2\\Lab 7.2.vcxproj|solutionrelative:Lab 7.2\\Lab 7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3CA8B6-89EC-491E-9458-FBF16C3AE7AC}|Lab7\\Lab7.vcxproj|C:\\6811850010\\Lab7\\Lab7\\Lab7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D3CA8B6-89EC-491E-9458-FBF16C3AE7AC}|Lab7\\Lab7.vcxproj|solutionrelative:Lab7\\Lab7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab7.cpp",
+              "DocumentMoniker": "C:\\6811850010\\Lab7\\Lab7\\Lab7.cpp",
+              "RelativeDocumentMoniker": "Lab7\\Lab7.cpp",
+              "ToolTip": "C:\\6811850010\\Lab7\\Lab7\\Lab7.cpp",
+              "RelativeToolTip": "Lab7\\Lab7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T08:56:21.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab 7.2.cpp",
+              "DocumentMoniker": "C:\\6811850010\\Lab7\\Lab 7.2\\Lab 7.2.cpp",
+              "RelativeDocumentMoniker": "Lab 7.2\\Lab 7.2.cpp",
+              "ToolTip": "C:\\6811850010\\Lab7\\Lab 7.2\\Lab 7.2.cpp",
+              "RelativeToolTip": "Lab 7.2\\Lab 7.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:37:27.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab7.3.cpp",
+              "DocumentMoniker": "C:\\6811850010\\Lab7\\Lab7.3\\Lab7.3.cpp",
+              "RelativeDocumentMoniker": "Lab7.3\\Lab7.3.cpp",
+              "ToolTip": "C:\\6811850010\\Lab7\\Lab7.3\\Lab7.3.cpp",
+              "RelativeToolTip": "Lab7.3\\Lab7.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:40:03.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab7.4.cpp",
+              "DocumentMoniker": "C:\\6811850010\\Lab7\\Lab7.4\\Lab7.4.cpp",
+              "RelativeDocumentMoniker": "Lab7.4\\Lab7.4.cpp",
+              "ToolTip": "C:\\6811850010\\Lab7\\Lab7.4\\Lab7.4.cpp",
+              "RelativeToolTip": "Lab7.4\\Lab7.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:41:52.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab7.5.cpp",
+              "DocumentMoniker": "C:\\6811850010\\Lab7\\Lab7.5\\Lab7.5.cpp",
+              "RelativeDocumentMoniker": "Lab7.5\\Lab7.5.cpp",
+              "ToolTip": "C:\\6811850010\\Lab7\\Lab7.5\\Lab7.5.cpp",
+              "RelativeToolTip": "Lab7.5\\Lab7.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:45:41.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab7.6.cpp",
+              "DocumentMoniker": "C:\\6811850010\\Lab7\\Lab7.6\\Lab7.6.cpp",
+              "RelativeDocumentMoniker": "Lab7.6\\Lab7.6.cpp",
+              "ToolTip": "C:\\6811850010\\Lab7\\Lab7.6\\Lab7.6.cpp",
+              "RelativeToolTip": "Lab7.6\\Lab7.6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:47:21.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
